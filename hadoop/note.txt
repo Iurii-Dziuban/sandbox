@@ -1,0 +1,8 @@
+http://toodey.com/2015/08/10/hadoop-installation-on-windows-without-cygwin-in-10-mints
+
+Create a text file with some data in it on a path used in WordCount main class
+
+Run command from command line in project dir:
+
+hadoop jar target/count.jar WordCount /Hadoop/data.txt/user/root/example_count
+
